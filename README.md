@@ -1,7 +1,7 @@
 # Object-Recognition-Facial-Recognition
 Tech demo for Young Peoples Race Power and Technology (YPRPT) group.  
 *Note: a significant amount of code is derived from the following tutorials:  
-Facial Recognition - https://medium.com/data-science-lab-amsterdam/face-recognition-with-python-in-an-hour-or-two-d271324cbeb3
+Facial Recognition - https://medium.com/data-science-lab-amsterdam/face-recognition-with-python-in-an-hour-or-two-d271324cbeb3  
 Object Recognition - https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi*
 
 ## Object-Recogntion
