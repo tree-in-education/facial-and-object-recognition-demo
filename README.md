@@ -1,5 +1,5 @@
 # Object-Recognition-Facial-Recognition
-Tech demo for Technology + Ethics
+Tech demo for Young Peoples Race Power and Technology (YPRPT) group.
 
 ## Object-Recogntion
 Object-Recognition will be ran on the Raspberry Pi. Object-Recognition will use Object_detection_picamera.py. Demo requires Tensorflow, OpenCV, and Protobuf.
