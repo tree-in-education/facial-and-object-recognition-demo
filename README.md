@@ -6,7 +6,7 @@ Facial Recognition - https://medium.com/data-science-lab-amsterdam/face-recognit
 Object Recognition - https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi*
 
 ## Object-Recogntion
-Object-Recognition will be ran on the Raspberry Pi. Object-Recognition will use Object_detection_picamera.py. Demo requires Tensorflow, OpenCV, and Protobuf.
+Object-Recognition will be ran on the Raspberry Pi. Object-Recognition will use Object_detection_picamera.py. Demo requires Tensorflow, OpenCV, and Protobuf. Used pip version 18.1 for installs.
 
 ### Usage
 Boot up Raspberry Pi. Make sure camera module is plugged in and propped up on camera stand. To run the object recognition script, navigate to the correct directory:
@@ -26,7 +26,7 @@ The model I am running is called ssdlite_mobilenet_v2_coco. It is a pre-trained 
 The main adjustment I have made to the model is a single change in labeling. I changed the label of "cell phone" to "gun", which means every time the model recognizes a cell phone, it will label it as "gun". This is to get conversation started by framing an example of a deadly mistake that real humans have made.
 
 ## Facial-Recongition
-Facial-Recognition will be ran on Macbook Pro. Facial-Recognition uses FaceDetection.py and TakePic.py. Demo requires Tensorflow, OpenCV, and Dlib.
+Facial-Recognition will be ran on Macbook Pro. Facial-Recognition uses FaceDetection.py and TakePic.py. Demo requires Tensorflow, OpenCV, and Dlib. Used pip version 19.2.1 for installs.
 
 ### Usage
 This demo uses two scripts, FaceDetection.py and TakePic.py. Both are located in the FacialRecogntion directory. Navigate to the FacialDetection directory to begin:
