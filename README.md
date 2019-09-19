@@ -51,6 +51,6 @@ On line 10 of FaceDetection.py:
 ```python
 MAX_DISTANCE = 0.6  # increase to make recognition less strict, decrease to make more strict
 ```
-As the comment says. Increase to make it more likely to recognize you as someone, but possibly someone you're not. Decrease to reduce the chance of misidentification. As a guideline, it seems .9 is as loose as you'd need it to be and .2-.3 is as strict as it can be while remaining useful.
+Increase to make it more likely to recognize you as someone, but possibly someone you're not. Decrease to reduce the chance of misidentification. As a guideline, it seems .9 is as loose as you'd need it to be and .2-.3 is as strict as it can be while remaining useful.
 
 
